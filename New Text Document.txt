@@ -1,0 +1,3 @@
+Test
+git init                    // Create .git hidden file in your folder 
+git add .                   // save the chages 
