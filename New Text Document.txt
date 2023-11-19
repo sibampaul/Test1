@@ -1,3 +1,8 @@
 Test
 git init                    // Create .git hidden file in your folder 
 git add .                   // save the chages 
+git commit -m "first commmit"    // commiting the code
+git remote add origin https://github.com/sibampaul/Test1.git     // adding origin
+git push origin master       // speceify the default remote branch
+git push --set-upstream     // local master branch link with remote master branch or not 
+git 
